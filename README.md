@@ -17,10 +17,16 @@ A multi-threaded TCP port scanner with service detection, report generation, and
 - Tkinter
 - Socket Programming
 - Threading
-
+- 
 ## Screenshots
 
-(Add screenshots here)
+### Home Page
+
+![Home Page](home_page.png)
+
+### Scanner Page
+
+![Scanner Page](scan_page.png)
 
 ## Developer
 
